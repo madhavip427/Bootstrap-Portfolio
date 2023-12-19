@@ -1,0 +1,9 @@
+.navbar-nav nav-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:white;
+}
+.row card img{
+    object-fit: cover;
+}
